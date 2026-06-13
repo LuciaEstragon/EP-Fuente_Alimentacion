@@ -10,3 +10,11 @@ Crear y diseñar una Fuente de Alimentacion AC-DC de un canal fijo a 5V y un can
 <img src="https://github.com/LuciaEstragon/EP-Fuente_Alimentacion/blob/main/Fuente_Alimentacion_Laboratorio.jpeg" width="300" height="200" alt="Mi Fuente de Alimentación de Laboratorio"> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/LuciaEstragon/EP-Fuente_Alimentacion/blob/main/Esquematico_Fuente_Alimentacion.jpeg" width="300" height="200" alt="Mi Fuente de Alimentación de Laboratorio"> &nbsp;
 </p>
+
+<!-- 
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px;">
+    <img src="URL_DE_TU_IMAGEN_1.png" height="300">
+    <img src="URL_DE_TU_IMAGEN_2.png" height="300">
+    <img src="URL_DE_TU_IMAGEN_3.png" height="300">
+</div>
+-->
